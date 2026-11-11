@@ -1,0 +1,9 @@
+# Ядро
+numpy>=1.26
+scipy>=1.11
+opencv-python>=4.9
+PySide6>=6.6
+mediapipe>=0.10.14
+
+# Сборка .exe (не нужен для запуска из исходников)
+pyinstaller>=6.0
